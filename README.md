@@ -4,7 +4,7 @@
 
 [Andrea Thomaz - Human Robot Interaction Readings](https://www.cc.gatech.edu/~athomaz/classes/CS8803-HRI/Syllabus.html)
 
-[Cynthia Breazeal - Cooperative Machines](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003/index.htm))
+[Cynthia Breazeal - Cooperative Machines](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-965-special-topics-in-media-technology-cooperative-machines-fall-2003/index.htm)
 
 [Dorsa Sadigh - Safe and Interactive Robotics](https://dorsa.fyi/cs333/)
 
